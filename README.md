@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 👋 Hi, I’m @adan_findo 
+- 👋 Hi, I’m Adan Findo 
 - 💻 42RomaLuiss ComputerScience
 - 📜 ACSAI (applied computer science and artificial intelligence) at Rome University "La Sapienza"
 - 🎓 Master in Data Science
